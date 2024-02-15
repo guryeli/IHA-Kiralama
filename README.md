@@ -69,4 +69,4 @@ DATABASES = {
 
 Projeyi başlattığınızda veritabanı tabloları otomatik olarak oluşturulacaktır
 
-İlk kullanıcı oluşturmak kayıt olup; PostgreSQL üzerinden yetkisini is_staff sütunundan yönetici olarak ayarlayabilirsiniz.
+İlk kullanıcı oluşturmak için kayıt olup; PostgreSQL üzerinden yetkisini is_staff sütunundan yönetici olarak ayarlayabilirsiniz.
